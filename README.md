@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tweepy Bot
 ## Sample functions for construction a twitter bot. 
 This twitter bot contains a set of functions that can manipulate objects in the tweepy module. 
